@@ -1,0 +1,10 @@
+{
+  "editor.indentSize": 2,
+  "editor.detectIndentation": false,
+  "angular-schematics.schematicsDefaultOptions": {
+    "angular-*": {
+      "externalTemplate": true,
+      "skipStyle": true
+    }
+  }
+}
